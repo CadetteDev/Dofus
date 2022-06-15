@@ -3,7 +3,7 @@ import os, sys
 import time
 import multiprocessing, random
 
-print("Welcome To DarkMatter DDoS")
+print("Bienvenido a Ddos By Cadette")
 ip = input("IP/Domain: ")
 port = int(input("Port: "))
 
